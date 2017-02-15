@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# perfilesapi
+Sistema de captura perfil de puesto Rails
+>>>>>>> 39ede86705e314559ca17f557e9a7aaf72b7a65c
